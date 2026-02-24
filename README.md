@@ -1,5 +1,6 @@
 📊 Comparación de Modelos de Clasificación
 Predicción de Churn – Machine Learning Supervisado
+
 📌 Descripción del Proyecto
 
 Este proyecto desarrolla y compara tres modelos de clasificación supervisada para predecir el abandono de clientes (Churn) en un dataset de telecomunicaciones.
@@ -99,6 +100,7 @@ Validación cruzada (cross_val_score)
 El modelo con mejor desempeño fue utilizado para generar el archivo de predicción final.
 
 ▶️ Cómo Ejecutar el Proyecto
+
 1️⃣ Preparación del Dataset
 
 Descargar o clonar el repositorio.
